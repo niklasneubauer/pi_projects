@@ -1,2 +1,2 @@
-# pi_projekts
+# pi_projects
 ## GPIO-Steuerung in C
